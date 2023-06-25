@@ -1,2 +1,2 @@
 @echo off
-cmd /k "python InstallerCode.py"
+start /min cmd /c "python InstallerCode.py"
